@@ -1,0 +1,39 @@
+.parrafotitulo{
+    letter-spacing: 1px;
+    font-family: lucida calligraphy;
+    color: rgb(8, 8, 8);
+    text-align: center;
+    margin-left: 85px;
+    margin-top: 45px;
+    text-align: center;
+    font-size: 20px;
+    float: center;
+
+}
+
+.parrafotitulo1{
+    letter-spacing: 1px;
+    font-family: lucida calligraphy;
+    color: rgb(7, 7, 7);
+    text-align: left;
+    margin-left: 85px;
+    margin-top: 45px;
+    text-align: center;
+    font-size: 20px;
+    float: left ;
+
+}
+
+
+.parrafotitulo2{
+    letter-spacing: 1px;
+    font-family: lucida calligraphy;
+    color: salmon;
+    text-align: left;
+    margin-left: 85px;
+    margin-top: 45px;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+
+}

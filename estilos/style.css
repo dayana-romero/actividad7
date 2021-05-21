@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(206, 238, 176);
+    text-align: center;
+}
+
+
+.texto1{
+ 
+    color: salmon;
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+.borde{
+    border-radius: 600px;
+    
+}
+
+
+.padre{
+    width: 100%;
+    height: 350px;
+    background: rgb(247, 173, 222);
+    display: flex;
+    justify-content: space-around;
+   
+    
+    /* Center: centro
+    flex-start: todos a la izq
+    flex-end: todo a la derecha
+    space-around: espacio alrededor de ellos
+     */ 
+     
+}
+
+.padre > div{
+    background: #EABCFE ;
+    width: 400px;
+    height: 350px;
+    justify-content: center;
+    
+}
+
+
+.texto1{
+ 
+    font-size: 50px;
+    background: salmon;
+    padding: 50px;
+
+}
+
+.borde{
+    border-radius: 600px;
+    
+}
